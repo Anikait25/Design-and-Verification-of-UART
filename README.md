@@ -43,7 +43,6 @@ UART/
 │   ├── uart\_tx.v
 │   ├── uart\_rx.v
 │   ├── baud\_gen.v
-│   ├── fifo.v
 │   ├── uart\_top.v
 ├── sim/
 │   ├── interface.sv
